@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo ego
+- Olá, me chamo ego
 - E esse é o inicio da minha jornada no mundo de T.I
 
 <!---
