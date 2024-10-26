@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo ego
-E esse é o inicio da minha jornada no mundo de T.I
+- E esse é o inicio da minha jornada no mundo de T.I
 
 <!---
 egostreetw/egostreetw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
